@@ -47,7 +47,7 @@ Blacet to Doepfer Power Connector
 
 Some Blacet Modules will work on +/-12V and some Doepfer Modules will work on +/-15V... 
 
-![BlacetDoepferConnector](https://github.com/mamonu/FracModular/blob/master/BlacetDoepPsConn.gif)
+![BlacetDoepferConnector](https://github.com/FracModular/Blacet/raw/master/BlacetDoepPsConn.gif)
 
 
 
