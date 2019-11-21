@@ -1,7 +1,6 @@
 # Frac Modular 
 
-
-## This repo is for dedicated to the preservation of information for the Frac Modular format.
+This repo is dedicated to the preservation of information for the Frac Modular format.
 
 ### What is a modular synthesizer?
 
