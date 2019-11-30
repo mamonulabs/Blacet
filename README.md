@@ -22,7 +22,7 @@ Frac format modules typically use 3.5 mm connectors and plugs for patching, alth
 Power requirements for Frac modules are typically ±15VDC. Current draw depends on the module. The power connectors are 4 way AMP MTA-156 headers. The control voltage is 1V/octave.[1][2][4] PAiA P9700S modules are designed for an ±18V unregulated power with on module regulation where necessary, although ±15V regulated supplies can be used.[10]
 
 
-Frac brands
+## Frac brands
 
     Ad Infinitum
     Analog Metropolis
